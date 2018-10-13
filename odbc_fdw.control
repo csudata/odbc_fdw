@@ -1,0 +1,20 @@
+##########################################################################
+#
+#                foreign-data wrapper for ODBC
+#
+# Copyright (c) 2011, PostgreSQL Global Development Group
+# Copyright (c) 2016, 2017, 2018, CARTO
+#
+# This software is released under the PostgreSQL Licence
+#
+# Original author: Zheng Yang <zhengyang4k@gmail.com>
+#
+# IDENTIFICATION
+#                 odbc_fdw/odbc_fdw.control
+# 
+##########################################################################
+
+comment = 'Foreign data wrapper for accessing remote databases using ODBC'
+default_version = '0.3.0'
+module_pathname = '$libdir/odbc_fdw'
+relocatable = true
