@@ -7,8 +7,8 @@ remote databases using Open Database Connectivity [ODBC](http://msdn.microsoft.c
 This was originally developed by Zheng Yang <zhengyang4k@gmail.com> in 2011,
 with contributions by Gunnar "Nick" Bluth <nick@pro-open.de> from 2014
 and further developed by CARTO <dataservices@carto.com> since 2016.
+2017, 2018, support PG 9.6 10, by www.cstech.ltd. (Will support 11 later)
 
-2017, 2018, support PG 9.6 10, by www.cstech.ltd.(Will support 11 later)
 Requirements
 ------------
 
